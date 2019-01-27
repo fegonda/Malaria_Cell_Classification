@@ -2,7 +2,7 @@
 # Detecting Malaria infected cells with Machine Learning and TensorFlow.
 HealthCare and Medical Science are the constantly developing fields which require human expertise
 and high-end technology. With Machine Learning and [TensorFlow](https://www.tensorflow.org/), we could fight one of the deadly disesases
-like Malaria. 
+like Malaria. You can read the article here on Medium -> https://medium.com/@equipintelligence/detecting-malaria-infected-cells-with-machine-learning-and-tensorflow-4f17ac491662
 
 # About the Project
 The following files/directories are included in this GitHub project :
@@ -25,6 +25,8 @@ The following files/directories are included in this GitHub project :
 
 5. `DataConverter.py` **( only study purpose )** The Python script which can load images from a directory. 
 It is only for study purposes and we recommend to use the data provided in the `data32` and `data28` directories.
+
+
 
 
 
